@@ -8,7 +8,8 @@
 >
 > `数值`:指Java中所有基础变量类型的值的变化
 
-- A2code（以下代码借鉴了网上其他人代码）
+- A2code(借鉴了[@Hoboyz的代码](https://blog.csdn.net/hbmovie/article/details/80402380))
+  
 
 ```java
     @Test
